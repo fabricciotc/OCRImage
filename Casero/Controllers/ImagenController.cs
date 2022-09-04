@@ -1,7 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using IronOcr;
-using Aspose.OCR;
 
 namespace Casero.Controllers
 {
